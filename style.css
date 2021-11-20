@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+.mb-3 {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+h3 {
+  text-align: center;
+}
+.card {
+  display: block;
+  margin: 0 auto;
+}
+.col-2 {
+  text-align: right;
+}
+footer {
+  text-align: center;
+  padding: 50px;
+}
+#current-city {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: all 200ms ease;
+  background: #0d6efd;
+  color: #fff;
+}
+#current-city:hover {
+  color: black;
+  background: yellow;
+}
